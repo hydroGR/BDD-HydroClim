@@ -14,9 +14,6 @@ If you use these graphical fact sheets, please use the following reference to ci
 
 -   DOI: [10.15454/UV01P1](https://doi.org/10.15454/UV01P1)
 
-### Version
-
-`r date_sheet`
 
 ### License
 
